@@ -3,9 +3,9 @@
   "task_name": "Test-task-v0",
   "task_version": 1,
   "tournament_version": 1,
-  "tournament_start_block": 0,
-  "tournament_end_block": 100000,
-  "evaluation_end_block": 150000,
+  "tournament_start_block": 6979775,
+  "tournament_end_block": 6999775,
+  "evaluation_end_block": 7099775,
   "task_path": "tasks/v1",
   "config_path": "tasks/v1/config.json"
 }
